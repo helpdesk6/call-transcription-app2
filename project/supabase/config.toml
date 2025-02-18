@@ -1,0 +1,6 @@
+[functions]
+[functions.sync-external-calls]
+verify_jwt = true
+
+[functions.test-database-connection]
+verify_jwt = true
